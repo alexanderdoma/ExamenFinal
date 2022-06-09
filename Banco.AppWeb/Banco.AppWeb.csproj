@@ -187,6 +187,10 @@
       <Project>{aa3a0aab-ab68-44e5-a651-94193bf136a7}</Project>
       <Name>Banco.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Tienda.logic\Banco.logic.csproj">
+      <Project>{f369e3f5-090e-4ad5-879b-2b4a36920dbc}</Project>
+      <Name>Banco.logic</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

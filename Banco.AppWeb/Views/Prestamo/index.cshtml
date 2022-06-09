@@ -13,7 +13,7 @@
 
     <div class="form-group">
         @Html.LabelFor(model => Model.Cliente)
-        @Html.TextBoxFor(model => Model.Cliente, new { @class = "form-control" })
+        @Html.TextBoxFor(model => Model.Cliente, new SelectList(ViewBag.categorias, "IdCliente", "Nombre"), new { @class = "form-control" })
     </div>
 
     <div class="form-group">
@@ -27,7 +27,7 @@
     </div>
 
     <div class="form-group">
-        <input type="submit" value="Generar" class="btn btn-primary" />
+        <input type="submit" value="Generar" class="btn btn-default" />
     </div>
 }
 
