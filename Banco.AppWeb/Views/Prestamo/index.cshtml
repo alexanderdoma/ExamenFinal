@@ -1,7 +1,33 @@
-﻿
+﻿@model Banco.Core.Prestamo
 @{
     ViewBag.Title = "Prestamo";
 }
 
 <h2>Generar Prestamo</h2>
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(model => Model.Fecha)
+        @Html.TextBoxFor(model => Model.Fecha, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => Model.Cliente)
+        @Html.TextBoxFor(model => Model.Cliente, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => Model.Monto)
+        @Html.TextBoxFor(model => Model.Monto, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => Model.Cuotas)
+        @Html.TextBoxFor(model => Model.Cliente, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Generar" class="btn btn-primary" />
+    </div>
+}
 

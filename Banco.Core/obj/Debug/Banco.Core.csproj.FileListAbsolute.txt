@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\Banco.Core.dll.config
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\Banco.Core.dll
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\Banco.Core.pdb
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\EntityFramework.dll
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\EntityFramework.xml
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\obj\Debug\Banco.Core.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\obj\Debug\Banco.Core.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\obj\Debug\Banco.Core.csproj.CopyComplete
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\obj\Debug\Banco.Core.dll
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.Core\obj\Debug\Banco.Core.pdb

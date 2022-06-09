@@ -84,3 +84,6 @@ C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\obj\Debug\Banco.AppWeb.cs
 C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\obj\Debug\Banco.AppWeb.csproj.CopyComplete
 C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\obj\Debug\Banco.AppWeb.dll
 C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\obj\Debug\Banco.AppWeb.pdb
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\bin\Banco.Core.dll
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\bin\Banco.Core.pdb
+C:\Users\alexa\source\repos\ProyectoFinal\Banco.AppWeb\bin\Banco.Core.dll.config
